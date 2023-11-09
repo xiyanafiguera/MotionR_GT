@@ -1,13 +1,13 @@
 # Motion retargeting Ground Truth
 
-## Robots:
+## Robots
 - Reachy
 - Coman
 - Pepper
 - Atlas
 - Nao
 
-## Motions:
+## Motions
 - 02_05 punch strike
 - 13_15 laugh
 - 13_18 boxing
